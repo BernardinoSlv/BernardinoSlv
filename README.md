@@ -7,6 +7,8 @@ Como todo entusiasta, eu fiquei extremamente encantado com todas as possibilidad
 ### :desktop_computer: Como tudo começou
 
 ```py
+#!/bin/python3
+
 print("Hello world")
 ```
 
