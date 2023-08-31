@@ -50,6 +50,7 @@ No início da minha jornada, percebi que o mercado estava saturado de desenvolve
 Foi aí que compreendi da maneira mais difícil que, _para fazer mais, precisava de menos_. Como meu objetivo era sobressair na multidão, comecei a estudar muito e a praticar muito, acreditando que estudar, praticar e prestar serviços até a exaustão significaria mais aprendizado. No entanto, estava completamente equivocado, o que resultou em frustração, exaustão, noites mal dormidas e uma busca incansável por cursos, artigos, livros e conteúdos avançados. Admito que aprendi muito nesse período. Adquiri outras habilidades também, como:
 - Banco de Dados
 - Git
+- Linux
 - Javascript, algumas observações sobre:
     1. **Promises** são ótimas.
     2. O conceito de **prototypes** é um pouco confuso no início, mas é muito interessante.
