@@ -80,4 +80,4 @@ Espero que você tenha lido até aqui e que tenha gostado! Tenha um ótimo dia.
 - [WhatsApp](https://api.whatsapp.com/send?phone=5537999975400&text=Oi,%20tem%20disponibilidade?)
 - [E-mail](mailto:bernardinoosilvaa@gmail.com)
 
-![Tecnologias](https://skillicons.dev/icons?i=py,php,js,git)
+![Tecnologias](https://skillicons.dev/icons?i=py,php,js,git,mysql)
