@@ -23,6 +23,6 @@ Foi onde tive o primeiro contato com a programação, sendo mais específico, co
 
 > Que linguagem simples, orientada a objetos, scripts rápidos, sendo possível desenvolver bot, scraping de forma simples e organizada, utiliza indentação para definição de blocos, o que dizer mais dessa linda ferramenta ?
 
-Aprendi e pratiquei por bastate tempo a sua utilização e recursos <small>(utilizo até hoje, porém com menor frequência)</small>, foi com ela que aprendi a criar bots, scraping, fazer requisições e interação em inúmeros protocolos: [HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [SSH](https://pt.wikipedia.org/wiki/Secure_Shell), [FTP](https://pt.wikipedia.org/wiki/Protocolo_de_Transfer%C3%AAncia_de_Arquivos), entre outros...
+Aprendi e pratiquei por bastate tempo seus recursos e poderes <small>(utilizo até hoje, porém com menor frequência)</small>, foi com ela que aprendi a criar bots, scraping, fazer requisições e interação em inúmeros protocolos: [HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [SSH](https://pt.wikipedia.org/wiki/Secure_Shell), [FTP](https://pt.wikipedia.org/wiki/Protocolo_de_Transfer%C3%AAncia_de_Arquivos), entre outros...
 
-![stack](https://skillicons.dev/icons?i=php,js,git)
+![stack](https://skillicons.dev/icons?i=py,php,js,git)
