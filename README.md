@@ -62,6 +62,7 @@ Além das novas habilidades, evolui muito com o PHP e estudei bastante:
 - [Design Patterns](https://pt.wikipedia.org/wiki/Padr%C3%A3o_de_projeto_de_software)
 - [Princípios SOLID](https://pt.wikipedia.org/wiki/SOLID)
 - [Laravel](https://laravel.com)
+- [Testes](https://pt.wikipedia.org/wiki/Teste_de_software)
 - Entendi as falhas e até como explorá-las.
 
 No entanto, foi ao ler livros <small>(não relacionados à programação)</small> que entendi que, para fazer mais, precisava de menos. Isso implica ter foco em um objetivo muito grande e específico, usando cada dia para melhorar constantemente, de forma que cada dia contribua para o objetivo <small>(cuidando da saúde para produzir o máximo, alimentando-se bem, dormindo bem, fazendo coisas que gosta com quem gosta, entre outras).</small>
